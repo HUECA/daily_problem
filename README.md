@@ -8,7 +8,12 @@
 
 ### 2025年3月29日 
 
-第一题:难度 1300 [B. Find the Permutation](https://codeforces.com/contest/2056/problem/B). tag:图论 深度优先搜索。
+第一题:难度 1300 [Find the Permutation](https://codeforces.com/contest/2056/problem/B).
+
+### 2025年4月1日
+
+第一题:难度 1400 [The Trail](https://codeforces.com/contest/2055/problem/C).
+
 
 ## 附录 
 ### [CodeForces](https://codeforces.com/)与[洛谷](https://www.luogu.com.cn/)大致难度对照表
