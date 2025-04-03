@@ -14,7 +14,9 @@
 
 第一题:难度 1400 [The Trail](https://codeforces.com/contest/2055/problem/C).
 
+###  2025年4月2日
 
+第一题:难度 1700 [Toy Sum](https://codeforces.com/problemset/problem/405/D)
 ## 附录 
 ### [CodeForces](https://codeforces.com/)与[洛谷](https://www.luogu.com.cn/)大致难度对照表
 |      洛谷评级      | <span style="color: #FE4C61;">入门</span> |  <span style="color: #F39C11;">普及-</span>   | <span style="color: #FFC116;">普及/提高-</span> | <span style="color: #52C41A;">普及+/提高</span> | <span style="color: #3498DB;">提高+/省选-</span> | <span style="color: #9D3DCF;">省选/NOI-</span> | <span style="color: #0E1D69;">NOI/NOI+/CTSC</span> |
